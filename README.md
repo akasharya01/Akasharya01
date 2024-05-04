@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Open Source**
 
-- 💬 Ask me about **AWS, Android **
+- 💬 Ask me about **AWS, Android**
 
 - 📫 How to reach me **akashk82701@gmail.com**
 
@@ -18,8 +18,6 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Akash Kumar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akash-kumar-a17228255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brijesh-sharma-552b1b266/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/akashk82701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Brijesh Sharma" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Brijesh Sharma" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Brijesh Sharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
