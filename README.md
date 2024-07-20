@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akasharya01&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkushwahax" /> </p>
 
-- 🔭 I’m currently working on **Blood Donation&Finder App**
+<!-- 🔭 I’m currently working on ****->
 
-- 🌱 I’m currently learning **Android Development and DevOps**
+- 🌱 I’m currently learning **AWS Cloud and DevOps**
 
 - 🤝 I’m looking for help with **Open Source**
 
