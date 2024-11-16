@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akasharya01&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkushwahax" /> </p>
 
-- 🔭 I’m currently working on **AWS**
+- 🔭 I’m currently learning **Python**
 
 - 🌱 I’m currently learning **AWS Cloud and DevOps**
 
 - 🤝 I’m looking for help with **Open Source**
 
-- 💬 Ask me about **AWS, Android**
+- 💬 Ask me about **AWS, Android Development**
 
 - 📫 How to reach me **akashk82701@gmail.com**
 
